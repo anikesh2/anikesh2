@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @anikesh2
-- 👀 I’m interested in programming and new Tach's
+- 👀 I’m interested in programming and new technologies 
 - 🌱 I’m currently pursuing my Bachelor's in computer science and engineering (2022 Batch)
 - 📫 How to reach me anikesh2y@gmail.com
 
